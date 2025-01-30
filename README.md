@@ -24,13 +24,13 @@ Ensure Python 3.x is installed on your system.
 
 Install Pygame by running:
 
-pip install pygame
+ > pip install pygame
 
 *Usage*
 
 Run the script using Python:
 
-python TorusStream.py
+ > python TorusStream.py
 
 *Output*
 
