@@ -1,6 +1,6 @@
 # TorusBinaryStream
 
-README for Torus Binary Stream Tunnel
+README 
 
 *Introduction*
 
