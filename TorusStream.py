@@ -22,7 +22,7 @@ TORUS_RADIUS = COLUMN_WIDTH * NUM_COLUMNS / (2 * math.pi)
 COLORS = [(0, 255, 0), (0, 128, 0)]
 
 # Define the words to display
-words = ["I", "WILL", "SHOW", "YOU", "GOD"]
+words = ["HELLO", "WORLD"]
 
 # Convert the words to binary representation
 binary_words = [[int(b) for b in bin(ord(c))[2:].zfill(8)] for word in words for c in word]
